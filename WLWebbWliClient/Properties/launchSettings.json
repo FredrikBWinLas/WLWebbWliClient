@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WLWebbWliClient": {
+      "commandName": "Project",
+      "commandLineArgs": "-file test.zip -connectionString \"Server=FREDRIKB-HP\\SQLEXPRESS;Database=WinLasSkelleftea4;Trusted_Connection=False;User Id=sa;Password=Tage2004;\""
+    }
+  }
+}
